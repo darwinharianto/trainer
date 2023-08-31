@@ -1,0 +1,1 @@
+CVAT_ADDRESS="http://localhost:8081"
